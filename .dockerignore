@@ -1,0 +1,12 @@
+__mocks__/
+.git/
+.github/
+.idea/
+.stryker-tmp/
+.vscode/
+bin/
+coverage/
+dist/
+e2e/
+node_modules/
+reports/
